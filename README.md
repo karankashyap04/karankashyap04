@@ -10,7 +10,7 @@ I'm a sophomore studying Computer Science at Brown University. <br> I'm a passio
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karankashyap04&show_icons=true&hide=stars&&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankashyap04&show_icons=true&hide_border=true&langs_count=8&layout=compact"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankashyap04&show_icons=true&hide_border=true&langs_count=8&layout=compact&exclude_repo=Pneumo_attempt_2,Pneumo_attempt_3,Pneumo_attempt_4,Pneumo_attempt_5,pneumonia-live,newuserfrontend,registrationformfrontend,Sitare-Internship-Registrations-Analytics-Karan-,SitareAPIs,networkTutorial1,SimultEqn,SpaceInvader,Pneumo_pythany"/> -->
 </p>
 
 📬 Need to reach out to me? Email me at karan_kashyap@brown.edu anytime.
