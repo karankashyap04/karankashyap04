@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Karan!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/karan-kashyap04)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]([https://gkassym.netlify.app](https://karankashyap04.github.io/mysite/))
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://karankashyap04.github.io/mysite/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=karankashyap04.karankashyap04)
 
