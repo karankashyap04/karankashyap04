@@ -5,7 +5,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=karankashyap04.karankashyap04)
 
-I'm a sophomore studying Computer Science at Brown University. <br> I'm a passionate web developer and machine learning enthusiast who loves to learn new technologies and effectively use code to tackle pressing challenges.
+I'm a sophomore studying Computer Science at Brown University. <br> I'm a passionate web developer and machine learning enthusiast who loves to learn new technologies and effectively use code to design systems that tackle pressing challenges.
 
 
 <p>
