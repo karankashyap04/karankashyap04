@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/karan-kashyap04)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://karankashyap04.github.io/mysite/)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=karankashyap04.karankashyap04)
 
 I'm a sophomore studying Computer Science at Brown University. <br> I'm a passionate web developer and machine learning enthusiast who loves to learn new technologies and effectively use code to design systems that tackle pressing challenges.
