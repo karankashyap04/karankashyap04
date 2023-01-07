@@ -29,6 +29,7 @@ I'm a sophomore studying Computer Science at Brown University. <br> I'm a passio
 ![Flask](https://img.shields.io/badge/-Flask-orange?style=flat-square&logo=flask)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-yellow?style=flat-square&logo=socketio)
+![Java-Websocket](https://img.shields.io/badge/-JavaWebsocket-white?style=flat-square&logo=java-websocket)
 <br>
 ![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
