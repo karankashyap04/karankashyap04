@@ -43,11 +43,11 @@ I'm a sophomore studying Computer Science at Brown University. <br> I'm a passio
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman)
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karankashyap04&show_icons=true&hide=stars&&hide_border=true&&count_private=true&include_all_commits=true" />
+<!-- <p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karankashyap04&show_icons=true&hide=stars&&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankashyap04&show_icons=true&hide_border=true&langs_count=8&layout=compact&exclude_repo=Pneumo_attempt_2,Pneumo_attempt_3,Pneumo_attempt_4,Pneumo_attempt_5,pneumonia-live,newuserfrontend,registrationformfrontend,Sitare-Internship-Registrations-Analytics-Karan-,SitareAPIs,networkTutorial1,SimultEqn,SpaceInvader,Pneumo_pythany,Hangman,SpaceInvader2"/> -->
 <!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karankashyap04&theme=radical)" /> -->
-</p>
+<!-- </p> -->
 
 
 📬 Need to reach out to me? Email me at karan_kashyap@brown.edu anytime.
