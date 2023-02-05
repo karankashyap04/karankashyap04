@@ -17,6 +17,7 @@ I'm a sophomore studying Computer Science at Brown University. <br> I'm a passio
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
+![Forge](https://img.shields.io/badge/-Forge-E34F26?style=flat-square&logo=Forge)
 <br>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![ReactNative](https://img.shields.io/badge/-React%20Native-white?style=flat-square&logo=React-native)
