@@ -45,6 +45,7 @@ I'm a sophomore studying Computer Science at Brown University. <br> I'm a passio
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
 
 <!-- <p> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karankashyap04&show_icons=true&hide=stars&&hide_border=true&&count_private=true&include_all_commits=true" /> -->
