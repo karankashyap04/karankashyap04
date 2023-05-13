@@ -19,6 +19,7 @@ I'm a sophomore studying Computer Science at Brown University. <br> I'm a passio
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
 ![Forge](https://img.shields.io/badge/-Forge-E34F26?style=flat-square&logo=Forge)
 ![Matlab](https://img.shields.io/badge/-Matlab-563D7C?style=flat-square&logo=MATLAB)
+![ReasonML](https://img.shields.io/badge/-ReasonML-E34A86?style=flat-square&logo=REASONML)
 <br>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![ReactNative](https://img.shields.io/badge/-React%20Native-white?style=flat-square&logo=React-native)
