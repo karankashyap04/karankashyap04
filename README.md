@@ -13,6 +13,7 @@ I'm a sophomore studying Computer Science at Brown University. <br> I'm a passio
 ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=C)
 ![C++](https://img.shields.io/badge/-C++-white?style=flat-square&logo=C++)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
+![C#](https://img.shields.io/badge/-Csharp-teal?style=flat-square&logo=Csharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
