@@ -4,7 +4,7 @@
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://karankashyap04.github.io/mysite/) -->
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=karankashyap04.karankashyap04) -->
 
-I'm a sophomore studying Computer Science at Brown University. <br> I'm a passionate web developer and machine learning enthusiast who loves to learn new technologies and effectively use code to design systems that tackle pressing challenges. <br> I'm experienced with Full-Stack Web Development, working with Deep Learning models, and various strategies in Natural Language Processing (NLP). I also like working with systems!
+I'm a rising junior studying Computer Science at Brown University. <br> I'm a passionate web developer and machine learning enthusiast who loves to learn new technologies and effectively use code to design systems that tackle pressing challenges. <br> I'm experienced with Full-Stack Web Development, working with Deep Learning models, and various strategies in Natural Language Processing (NLP). I also like working with systems!
 
 
 #### 🛠 Technologies and Tools
