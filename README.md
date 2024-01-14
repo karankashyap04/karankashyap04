@@ -4,8 +4,8 @@
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://karankashyap04.github.io/mysite/) -->
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=karankashyap04.karankashyap04) -->
 
-I'm a junior studying Computer Science at Brown University. <br> I'm a passionate web developer and machine learning enthusiast who loves to learn new technologies and effectively use code to design systems that tackle pressing challenges. <br> I'm experienced with Full-Stack Web Development, working with Deep Learning models, and various strategies in Natural Language Processing (NLP). I also like working with systems! <br>
-I'm currently researching as a part of a lab at Brown that is trying to develop semantically richer word embeddings. <br> Previously, I've had internships in Software Engineering and Machine Learning, and I'm going to be at Jane Street this coming summer.
+I'm a junior studying Computer Science at Brown University. I love building software; particularly, I'm interested in computer systems, full stack development, deep learning models, and NLP. <br> I'm currently a Teaching Assistant with Brown's CS department. I'm also conducting research as a part of a lab where we're trying to develop semantically richer word embeddings. <br>
+I've had prior internships in both Software Engineering and Machine Learning. Up next, I'll be at Jane Street during the summer of 2024.
 
 
 #### 🛠 Technologies and Tools
@@ -22,6 +22,8 @@ I'm currently researching as a part of a lab at Brown that is trying to develop 
 ![Forge](https://img.shields.io/badge/-Forge-E34F26?style=flat-square&logo=Forge)
 ![Matlab](https://img.shields.io/badge/-Matlab-563D7C?style=flat-square&logo=MATLAB)
 ![ReasonML](https://img.shields.io/badge/-ReasonML-E34A86?style=flat-square&logo=REASONML)
+![Racket](https://img.shields.io/badge/-Racket-blue?style=flat-square&logo=Racket)
+![OCaml](https://img.shields.io/badge/-OCaml-black?style=flat-square&logo=OCaml)
 <br>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![ReactNative](https://img.shields.io/badge/-React%20Native-white?style=flat-square&logo=React-native)
